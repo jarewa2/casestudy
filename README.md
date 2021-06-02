@@ -16,12 +16,34 @@ JP Morgan's work to delvelop JPM Coin is a significant step in the indusrty towa
 
 ---
 ## **`So... What is this?`**
-The mechanics of JPM Coin, and why it isn’t quite a cryptocurrency, but actually a “stablecoin”,which is pegged to the US Dollar. It is important to include a discussion of the differencebetween a cryptocurrency, which has no government backing, and a “fiat currency”, such as theUS Dollar 
+JPM Coin is a permissioned, shared ledger system that serves as a payment rail and deposit account ledger, enabling participating J.P. Morgan clients to transfer US Dollars held on deposit with J.P. Morgan. JPM Coin facilitates real-time value movement, helping to solve common hurdles of traditional cross-border payments.
 
-(Fiat currencies acquire their name because they are declared to have value “by fiat”by a government, i.e. a government declares that its citizens – and the government – ​must​acceptpayment in that currency. So fiat currencies have value because you can pay your taxes withthem!).
-
-
-### **What is JPM COIN**:
-JPM Coin is a permissioned, shared ledger system that serves as a payment rail and deposit account ledger, enabling participating J.P. Morgan clients to transfer US Dollars held on deposit with J.P. Morgan. JPM Coin facilitates real-time value movement, helping to solve common hurdles of traditional cross-border payments. 
 ![JPM Coin](https://pbs.twimg.com/media/Etz5U_xVcAQVc0_.jpg)
 [Read more about JPM Coin](https://www.jpmorgan.com/solutions/cib/news/digital-coin-payments)
+
+The coin is fundamentally different from cryptocurrencies like Bitcoin. Most significantly, it is redeemable at a 1:1 ratio for fiat currency held by JPMorgan. This isn’t quite a cryptocurrency, but actually a “stablecoin”, which is pegged in this case to the US Dollar. 
+
+JPM Coin is not money in the ordinary sense. Instead, it is a digital token that represents U.S. dollars held by JPMorgan Chase. It maintains a value equal to one U.S. dollar. If JPMorgan Chase deems the launch of JPM Coin to be successful, the bank plans to use it with other fiat currencies in the future.
+
+Fiat currencies acquire their name because they are declared to have value “by fiat” by a government; for instance a government declares that its citizens, and the government, ​must ​accept payment in that currency. So fiat currencies have value because you can pay your taxes with them.
+
+
+## **Stablecoin**:
+A currency is used as a medium of exchange and a mode of storage of value, and its value has to be stable. The world’s most popular cryptocurrency, Bitcoin, has recently seen high levels of volatility. Between mid-November and mid-December of last year, it shot from $5,940 to above $19,190, and then it fell to levels of $6,900 by early February. Even on an intraday basis, it is not uncommon to see cryptocurrencies jump or fall by 10 percent in a 24-hour period.
+
+
+Swings of this magnitude are not characteristics of a stable currency, but they make for speculative trading instruments like derivatives which are attractive to speculators but impractical for mainstream use. This has led to serious questions about the viability of present day popular cryptocurrencies as a reliable mode of transactions.
+
+
+
+
+
+---
+## Resources:
+[JPM Creates Digital Coin for Payments](https://www.jpmorgan.com/solutions/cib/news/digital-coin-payments)
+
+[JPMorgan to Launch JPM Coin](https://www.investopedia.com/jpmorgan-to-launch-jpm-coin-4587182)
+
+[Is Stablecoin the Answer to All Cryptocurrency Problems?](https://www.investopedia.com/tech/stablecoin-answer-all-cryptocurrency-problems/)
+
+
