@@ -32,7 +32,8 @@ JPM Coin is not money in the ordinary sense. Instead, it is a digital token that
 Fiat currencies acquire their name because they are declared to have value “by fiat” by a government; for instance a government declares that its citizens, and the government, ​must ​accept payment in that currency. So fiat currencies have value because you can pay your taxes with them.
 
 
-## **Stablecoin**:
+
+### **Stablecoin**:
 A currency is used as a medium of exchange and a mode of storage of value, and its value has to be stable. The world’s most popular cryptocurrency, Bitcoin, has recently seen high levels of volatility. On an intraday basis, it is not uncommon to see cryptocurrencies jump or fall by 10 percent in a 24-hour period.
 
 Swings of this magnitude are not characteristics of a stable currency, but they make for speculative trading instruments like derivatives which are attractive to speculators but impractical for mainstream use. This has led to serious questions about the viability of present day popular cryptocurrencies as a reliable mode of transactions.
@@ -43,7 +44,8 @@ A class of cryptocurrencies, called stablecoins, aim to offer price stability an
 
 Since a cryptocurrency operates on a global level and is not controlled by any central authority (like a central bank), it offers the best of both worlds; the security, anonymity and decentralized features of a cryptocurrency, and the low volatility of a fiat currency.
 
-## **Conclusion**:
+
+### **Conclusion**:
 Some believe that JPM Coin is the answer to the SWIFT payment system, featuring much faster settlement times, smaller costs as well as reduced error margins.
 
 These questions influenced J.P. Morgan in creating a new arm of blockchain business, Onyx, that will serve as the firm’s main blockchain and digital currency efforts.
@@ -64,3 +66,4 @@ Although many cryptocurrency users may shun the idea of a bank-issued blockchain
 
 [What Is JPM Coin and How Do You Buy It?](https://www.bitcoinmarketjournal.com/jpm-coin/)
 
+[ConsenSys Acquires JPMorgan’s Quorum Blockchain](https://www.coindesk.com/consensys-acquires-jp-morgan-quorum-blockchain)
