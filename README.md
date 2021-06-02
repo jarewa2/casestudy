@@ -1,8 +1,9 @@
 # **_Case Study - JPM Coin_**
 ##  **`J.P. Morgan COIN`**
-
-### `Overview`:
 JPMorgan Chase & Co. is an American investment bank and financial services holding company headquartered in New York City. There most notible competitors include Bank of America, Citibank and Wells Fargo.
+
+ A few years ago, Jamie Dimon, JP Morgan’s CEO famously said that any employee of his that was caught trading cryptocurrencies would be fired. And that mattered because Morgan is banking royalty. In the 19​th ​century, the House of Morgan did more than any other private institution to transform the United States from “zero to hero” economically. After merging with Chase (to become officially JP MorganChase), they are currently the largest bank in the United States by assets and one of the most respected,employing over 256,000 people.Nevertheless, like every other established business, they are worried about being “Amazon-ed” andrendered irrelevant by some transformative new business model. So they are trying everything they canthink of to transform themselves first, including eating their words and joining the cryptocurrencybandwagon (sort of) with JPM Coin
+
 
 ### `Problem Statement`:
 The financial sector has always been a space where companies are driven by rigde procedures, compliance metrics and regulations. The concept of what a *bank* is, has changed significatantly over time and the constant diruptions with technology devlopments only chanlenges it more. Today we have companies and 
